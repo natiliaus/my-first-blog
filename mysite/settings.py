@@ -25,7 +25,7 @@ SECRET_KEY = 'kpg$@w&t=u7fq#)n=zq$nph(yh%8s(b2w5kp0mz#_3cbkswldr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<natiliaus>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'monaxita.pythonanywhere.com']
 
 
 # Application definition
